@@ -120,7 +120,7 @@ DocForge/
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/ufoblivr/doc-forge.git>
+   git clone https://github.com/ufoblivr/doc-forge.git
    cd DocForge
    ```
 
