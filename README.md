@@ -1,7 +1,6 @@
 # DocForge
 
 **AI-Powered Automatic Code Documentation Generation**
-*IEEE Envision Project 2026*
 
 ---
 
@@ -121,7 +120,7 @@ DocForge/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ufoblivr/doc-forge.git>
    cd DocForge
    ```
 
